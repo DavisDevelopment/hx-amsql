@@ -1,0 +1,13 @@
+{
+    "name": "pm-core",
+    "version": "0.0.2",
+    "description": "haxe toolkit",
+    "license": "MIT",
+    "contributors": [
+        "DavisDevelopment"
+    ],
+    "dependencies": {},
+    "releasenote": "Initial release",
+    "url": "http://github.com/DavisDevelopment/pm-core",
+    "tags": [ ]
+}
