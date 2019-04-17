@@ -1,13 +1,15 @@
 {
-    "name": "pm-core",
-    "version": "0.0.2",
-    "description": "haxe toolkit",
+    "name": "amdb",
+    "version": "0.0.1",
+    "description": "embedded relational (optionally) SQL database in pure-haxe",
     "license": "MIT",
     "contributors": [
         "DavisDevelopment"
     ],
     "dependencies": {},
     "releasenote": "Initial release",
-    "url": "http://github.com/DavisDevelopment/pm-core",
-    "tags": [ ]
+    "url": "http://github.com/DavisDevelopment/hx-amsql",
+    "tags": [
+
+    ]
 }
